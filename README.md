@@ -37,6 +37,12 @@ MOSAiC expedition.
 
 ![alt text](./MOSAiC_dailyaverage_skalars_view_SSS_vs_SST.jpg "SSS_vs_SST")
 
+### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_dailyaverage_skalars/service/DataExploration
+
+### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC dailyaverage skalars
+
+### View: SSS_vs_SST
+
 To immediatley access the View, go to https://mvre.webodv.cloud.awi.de
 and login e.g. anonymously via the green button. Then browse directly
 to
@@ -66,3 +72,32 @@ downloaded, choosing "Window 2" will download the Temperature data.
 
 For more details how to work with webODV consider the links to the
 documentation above.
+
+
+
+
+## Temperature vs. Salinity
+
+A temperature vs. salinity scatterplot is provided in "TS.xview"
+
+![alt text](./MOSAiC_combinedTSdata_fullres_view_TS.jpg "TS")
+
+### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_combinedTSdata_fullres/service/DataExploration
+
+### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC combinedTSdata fullres
+
+### View: TS
+
+
+
+## Temperature Section
+
+A temperature section plot is provided in "Temp_Section_v1.xview"
+
+![alt text](./MOSAiC_combinedTSdata_fullres_view_Temp_Section_v1.jpg "Temp_Section")
+
+### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_combinedTSdata_fullres/service/DataExploration
+
+### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC combinedTSdata fullres
+
+### View: Temp_Section_v1
