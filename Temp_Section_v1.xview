@@ -1,1 +1,150 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?> <View xview='0.23' collection='MOSAiC_combinedTSdata_fullres'> <GeographicMap projection_type='1'> <MapDomain lon_min='-180.00000' lat_max='90.00000' lon_max='180.00000' lat_min='75.00000'/> <ProjectionPole lon_center='0.00000' lat_center='82.50000'/> </GeographicMap> <MapWindow> <Symbol small_size='0.333333' type='0' size='-0.1' color='1'/> <Window> <Geometry x_offset_bb='8.9' y_top='90' y_projection='100' x_length_bb='12.4' x_projection='100' y_offset_bb='1.1' x_left='-180' y_length_bb='3.9' x_right='180' y_bottom='75'/> </Window> </MapWindow> <Section bathymetry_name='ETOPO1_2x2min_Global.nc' width='0.132288' coordinate='3'> <xNodes>137.965,115.866,96.346,50.338,16.2696,12.8727,15.9468,10.4188,1.14175,0.649251</xNodes> <yNodes>84.1277,86.1994,87.3859,88.5539,87.0014,84.9974,83.6613,82.9634,81.1446,77.8456</yNodes> </Section> <DataWindow> <Axis draw_grid='T' axis_color='0' auto_label='F'/> <AxisVariables> <!--Section Time [years since 0000-01-01]--> <xAxis var_id='200000' var_list='1' is_reversed='F'/> <!--Depth level [m]--> <yAxis var_id='1' var_list='1' is_reversed='T'/> <!--Conservative Temperature [°C]--> <zAxis var_id='2' var_list='1' is_reversed='F'/> </AxisVariables> <Modes window_type='0' window_mode='2' plot_mode='0'/> <Contours draw='F'> <Contour z_value='-2' line_width='2'/> <Contour z_value='-1.5'/> <Contour z_value='-1' line_width='2'/> <Contour z_value='-0.5'/> <Contour z_value='0' line_width='2'/> <Contour z_value='0.5'/> <Contour z_value='1' line_width='2'/> <Contour z_value='1.5'/> <Contour z_value='2' line_width='2'/> <Contour z_value='2.5'/> <Contour z_value='3' line_width='2'/> </Contours> <Window font_size_factor='1.4'> <Axis x_align='0' cb_align='0'/> <Geometry x_offset_bb='3.5' y_top='0' x_length_bb='23' y_offset_bb='11.9' x_left='2019.744' y_length_bb='7.2' x_right='2020.733' y_bottom='450'/> <ColorScale z_range_end='3' z_range_start='-2' palette_file_name='cmocean_thermal'/> </Window> </DataWindow> <DataWindow> <Axis draw_grid='T' axis_color='0' auto_label='F'/> <AxisVariables> <!--Section Time [years since 0000-01-01]--> <xAxis var_id='200000' var_list='1' is_reversed='F'/> <!--Depth level [m]--> <yAxis var_id='1' var_list='1' is_reversed='T'/> <!--Conservative Temperature [°C]--> <zAxis var_id='2' var_list='1' is_reversed='F'/> </AxisVariables> <Modes window_type='0' window_mode='2' plot_mode='0'/> <DataMark size='0.2' color='17'/> <Window font_size_factor='1.4'> <Axis cb_align='0'/> <Geometry x_offset_bb='3.5' y_top='1000' x_length_bb='23' y_offset_bb='6.5' x_left='2019.744' y_length_bb='5.4' x_right='2020.733' y_bottom='5000'/> <ColorScale z_range_end='3' z_range_start='-2' palette_file_name='cmocean_thermal'/> </Window> </DataWindow> <DataWindow> <Axis draw_grid='F' axis_color='0' auto_label='F'/> <AxisVariables> <!--Section Time [years since 0000-01-01]--> <xAxis var_id='200000' var_list='1' is_reversed='F'/> <!--Depth level [m]--> <yAxis var_id='1' var_list='1' is_reversed='T'/> <!--Conservative Temperature [°C]--> <zAxis var_id='2' var_list='1' is_reversed='F'/> </AxisVariables> <Modes window_type='1' window_mode='2' plot_mode='7'/> <Contours draw='T'> <Contour label_color='15' z_value='-2' line_color='15'/> <Contour label_color='15' z_value='-1.75' line_color='15'/> <Contour label_color='15' z_value='-1.5' line_color='15'/> <Contour label_color='15' z_value='-1' line_color='15' line_width='2'/> <Contour label_color='15' z_value='-0.5' line_color='15'/> <Contour label_color='15' z_value='0' line_color='15' line_width='2'/> <Contour label_color='15' z_value='0.5' line_color='15'/> <Contour label_color='15' z_value='1' line_color='15' line_width='2'/> <Contour label_color='15' z_value='1.5' line_color='15'/> <Contour label_color='15' z_value='2' line_color='15' line_width='2'/> <Contour label_color='15' z_value='2.5' line_color='15'/> <Contour label_color='15' z_value='3' line_color='15' line_width='2'/> </Contours> <Gridding y_scale_length='0.251209' x_scale_length='0.386713' auto_scale_lengths='T' draw_shaded='F'/> <BadEstimateHiding hide='T' max_distance='3'/> <Window> <Axis x_align='0' y_align='0' cb_align='0'/> <Geometry x_offset_bb='3.5' y_top='0' x_length_bb='23' y_offset_bb='11.9' x_left='2019.744' y_length_bb='7.2' x_right='2020.733' y_bottom='450'/> <ColorScale z_range_end='3' z_range_start='-2' palette_file_name='cmocean_thermal'/> </Window> </DataWindow> <DataWindow> <Axis draw_grid='F' axis_color='0' auto_label='F'/> <AxisVariables> <!--time_ISO8601 [years since 0000-01-01]--> <xAxis var_id='0' var_list='1' is_reversed='F'/> <!--Depth level [m]--> <yAxis var_id='1' var_list='1' is_reversed='T'/> <!--Conservative Temperature [°C]--> <zAxis var_id='2' var_list='1' is_reversed='F'/> </AxisVariables> <Modes window_type='0' window_mode='2' plot_mode='0'/> <Symbol small_size='1' type='0' size='0' color='-1'/> <Window font_size_factor='1.4'> <Axis x_align='0' y_align='0'/> <Geometry x_offset_bb='3.5' y_top='0' x_length_bb='23' y_offset_bb='6.5' x_left='2019.7' y_length_bb='12.6' x_right='2020.8' y_bottom='4500'/> <ColorScale z_range_end='3' z_range_start='-2' palette_file_name='cmocean_thermal'/> </Window> </DataWindow> <Canvas> <GraphicsObjects> <GObject type='12' own_coordinates='F' dragging='T' is_automatic='F' post_data='T' clipping='T'> <Path smoothing='F' line_type='0' line_color='15' fill_color='15' line_width='3'/> <xValues>26.6245,27.1184,27.1184,26.6245,26.6245</xValues> <yValues>6.34936,6.34936,15.8846,15.8846,6.34936</yValues> </GObject> <GObject type='1' own_coordinates='F' dragging='T' is_automatic='F' post_data='T' clipping='F'> <Annotation x_coordinate='29.3183' angle='90' frame_color='-1' text_color='0' frame_type='0' y_coordinate='12.7661' font_size='24' background_color='-1' text_alignment='0' text='Conservative Temperature [°C]' frame_width='-1'/> </GObject> <GObject type='1' own_coordinates='F' dragging='T' is_automatic='F' post_data='T' clipping='F'> <Annotation x_coordinate='0.830609' angle='90' frame_color='-1' text_color='0' frame_type='0' y_coordinate='12.9455' font_size='24' background_color='-1' text_alignment='0' text='Depth [m]' frame_width='-1'/> </GObject> </GraphicsObjects> </Canvas> <BasicVariables> <!--time_ISO8601 [years since 0000-01-01]--> <Variable var_id='0' max_value='2020.80000' min_value='2019.70000'/> <!--Depth level [m]--> <Variable var_id='1' max_value='5000.000' min_value='0.000'/> <!--Conservative Temperature [°C]--> <Variable var_id='2' max_value='3.000' min_value='-2.000'/> <!--Absolute Salinity [g/kg]--> <Variable var_id='3' max_value='40.000' min_value='-5.000'/> </BasicVariables> <IsoSurfaceVariables> <!--time_ISO8601 [years since 0000-01-01] @ Depth level [m]=first--> <IsoVariable surface_value='first' surface_var_id='1' var_id='0'/> <!--Conservative Temperature [°C] @ Depth level [m]=first--> <IsoVariable surface_value='first' surface_var_id='1' var_id='2'/> <!--Absolute Salinity [g/kg] @ Depth level [m]=first--> <IsoVariable surface_value='first' surface_var_id='1' var_id='3'/> </IsoSurfaceVariables> <CurrentSelection stationID='0' sampleID='100'/> </View>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<View xview="0.23" collection="MOSAiC_daily_profiles">
+<GeographicMap projection_type="1">
+<MapDomain lon_min="-180.00000" lat_max="90.00000" lon_max="180.00000" lat_min="75.00000"/>
+<ProjectionPole lon_center="0.00000" lat_center="82.50000"/>
+</GeographicMap>
+<MapWindow>
+<Symbol small_size="0.333333" type="0" size="-0.1" color="1"/>
+<Window>
+<Geometry x_offset_bb="8.9" y_top="90" y_projection="100" x_length_bb="12.4" x_projection="100" y_offset_bb="1.1" x_left="-180" y_length_bb="3.9" x_right="180" y_bottom="75"/>
+</Window>
+</MapWindow>
+<Section bathymetry_name="ETOPO1_2x2min_Global.nc" width="0.132288" coordinate="3">
+<xNodes>137.965,115.866,96.346,50.338,16.2696,12.8727,15.9468,10.4188,1.14175,0.649251</xNodes>
+<yNodes>84.1277,86.1994,87.3859,88.5539,87.0014,84.9974,83.6613,82.9634,81.1446,77.8456</yNodes>
+</Section>
+<DataWindow>
+<Axis draw_grid="T" axis_color="0" auto_label="F"/>
+<AxisVariables>
+<!--Section Time [years since 0000-01-01]-->
+<xAxis var_id="200000" var_list="1" is_reversed="F"/>
+<!--Depth level [m]-->
+<yAxis var_id="1" var_list="1" is_reversed="T"/>
+<!--Conservative Temperature [°C]-->
+<zAxis var_id="2" var_list="1" is_reversed="F"/>
+</AxisVariables>
+<Modes window_type="0" window_mode="2" plot_mode="0"/>
+<Contours draw="F">
+<Contour z_value="-2" line_width="2"/>
+<Contour z_value="-1.5"/>
+<Contour z_value="-1" line_width="2"/>
+<Contour z_value="-0.5"/>
+<Contour z_value="0" line_width="2"/>
+<Contour z_value="0.5"/>
+<Contour z_value="1" line_width="2"/>
+<Contour z_value="1.5"/>
+<Contour z_value="2" line_width="2"/>
+<Contour z_value="2.5"/>
+<Contour z_value="3" line_width="2"/>
+</Contours>
+<Window font_size_factor="1.4">
+<Axis x_align="0" cb_align="0"/>
+<Geometry x_offset_bb="3.5" y_top="0" x_length_bb="23" y_offset_bb="11.9" x_left="2019.744" y_length_bb="7.2" x_right="2020.733" y_bottom="450"/>
+<ColorScale z_range_end="3" z_range_start="-2" palette_file_name="cmocean_thermal"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<Axis draw_grid="T" axis_color="0" auto_label="F"/>
+<AxisVariables>
+<!--Section Time [years since 0000-01-01]-->
+<xAxis var_id="200000" var_list="1" is_reversed="F"/>
+<!--Depth level [m]-->
+<yAxis var_id="1" var_list="1" is_reversed="T"/>
+<!--Conservative Temperature [°C]-->
+<zAxis var_id="2" var_list="1" is_reversed="F"/>
+</AxisVariables>
+<Modes window_type="0" window_mode="2" plot_mode="0"/>
+<DataMark size="0.2" color="17"/>
+<Window font_size_factor="1.4">
+<Axis cb_align="0"/>
+<Geometry x_offset_bb="3.5" y_top="1000" x_length_bb="23" y_offset_bb="6.5" x_left="2019.744" y_length_bb="5.4" x_right="2020.733" y_bottom="5000"/>
+<ColorScale z_range_end="3" z_range_start="-2" palette_file_name="cmocean_thermal"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<Axis draw_grid="F" axis_color="0" auto_label="F"/>
+<AxisVariables>
+<!--Section Time [years since 0000-01-01]-->
+<xAxis var_id="200000" var_list="1" is_reversed="F"/>
+<!--Depth level [m]-->
+<yAxis var_id="1" var_list="1" is_reversed="T"/>
+<!--Conservative Temperature [°C]-->
+<zAxis var_id="2" var_list="1" is_reversed="F"/>
+</AxisVariables>
+<Modes window_type="1" window_mode="2" plot_mode="7"/>
+<Contours draw="T">
+<Contour label_color="15" z_value="-2" line_color="15"/>
+<Contour label_color="15" z_value="-1.75" line_color="15"/>
+<Contour label_color="15" z_value="-1.5" line_color="15"/>
+<Contour label_color="15" z_value="-1" line_color="15" line_width="2"/>
+<Contour label_color="15" z_value="-0.5" line_color="15"/>
+<Contour label_color="15" z_value="0" line_color="15" line_width="2"/>
+<Contour label_color="15" z_value="0.5" line_color="15"/>
+<Contour label_color="15" z_value="1" line_color="15" line_width="2"/>
+<Contour label_color="15" z_value="1.5" line_color="15"/>
+<Contour label_color="15" z_value="2" line_color="15" line_width="2"/>
+<Contour label_color="15" z_value="2.5" line_color="15"/>
+<Contour label_color="15" z_value="3" line_color="15" line_width="2"/>
+</Contours>
+<Gridding y_scale_length="0.251209" x_scale_length="0.386713" auto_scale_lengths="T" draw_shaded="F"/>
+<BadEstimateHiding hide="T" max_distance="3"/>
+<Window>
+<Axis x_align="0" y_align="0" cb_align="0"/>
+<Geometry x_offset_bb="3.5" y_top="0" x_length_bb="23" y_offset_bb="11.9" x_left="2019.744" y_length_bb="7.2" x_right="2020.733" y_bottom="450"/>
+<ColorScale z_range_end="3" z_range_start="-2" palette_file_name="cmocean_thermal"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<Axis draw_grid="F" axis_color="0" auto_label="F"/>
+<AxisVariables>
+<!--time_ISO8601 [years since 0000-01-01]-->
+<xAxis var_id="0" var_list="1" is_reversed="F"/>
+<!--Depth level [m]-->
+<yAxis var_id="1" var_list="1" is_reversed="T"/>
+<!--Conservative Temperature [°C]-->
+<zAxis var_id="2" var_list="1" is_reversed="F"/>
+</AxisVariables>
+<Modes window_type="0" window_mode="2" plot_mode="0"/>
+<Symbol small_size="1" type="0" size="0" color="-1"/>
+<Window font_size_factor="1.4">
+<Axis x_align="0" y_align="0"/>
+<Geometry x_offset_bb="3.5" y_top="0" x_length_bb="23" y_offset_bb="6.5" x_left="2019.7" y_length_bb="12.6" x_right="2020.8" y_bottom="4500"/>
+<ColorScale z_range_end="3" z_range_start="-2" palette_file_name="cmocean_thermal"/>
+</Window>
+</DataWindow>
+<Canvas>
+<GraphicsObjects>
+<GObject type="12" own_coordinates="F" dragging="T" is_automatic="F" post_data="T" clipping="T">
+<Path smoothing="F" line_type="0" line_color="15" fill_color="15" line_width="3"/>
+<xValues>26.6245,27.1184,27.1184,26.6245,26.6245</xValues>
+<yValues>6.34936,6.34936,15.8846,15.8846,6.34936</yValues>
+</GObject>
+<GObject type="1" own_coordinates="F" dragging="T" is_automatic="F" post_data="T" clipping="F">
+<Annotation x_coordinate="29.3183" angle="90" frame_color="-1" text_color="0" frame_type="0" y_coordinate="12.7661" font_size="24" background_color="-1" text_alignment="0" text="Conservative Temperature [°C]" frame_width="-1"/>
+</GObject>
+<GObject type="1" own_coordinates="F" dragging="T" is_automatic="F" post_data="T" clipping="F">
+<Annotation x_coordinate="0.830609" angle="90" frame_color="-1" text_color="0" frame_type="0" y_coordinate="12.9455" font_size="24" background_color="-1" text_alignment="0" text="Depth [m]" frame_width="-1"/>
+</GObject>
+</GraphicsObjects>
+</Canvas>
+<BasicVariables>
+<!--time_ISO8601 [years since 0000-01-01]-->
+<Variable var_id="0" max_value="2020.80000" min_value="2019.70000"/>
+<!--Depth level [m]-->
+<Variable var_id="1" max_value="5000.000" min_value="0.000"/>
+<!--Conservative Temperature [°C]-->
+<Variable var_id="2" max_value="3.000" min_value="-2.000"/>
+<!--Absolute Salinity [g/kg]-->
+<Variable var_id="3" max_value="40.000" min_value="-5.000"/>
+</BasicVariables>
+<IsoSurfaceVariables>
+<!--time_ISO8601 [years since 0000-01-01] @ Depth level [m]=first-->
+<IsoVariable surface_value="first" surface_var_id="1" var_id="0"/>
+<!--Conservative Temperature [°C] @ Depth level [m]=first-->
+<IsoVariable surface_value="first" surface_var_id="1" var_id="2"/>
+<!--Absolute Salinity [g/kg] @ Depth level [m]=first-->
+<IsoVariable surface_value="first" surface_var_id="1" var_id="3"/>
+</IsoSurfaceVariables>
+<CurrentSelection stationID="0" sampleID="100"/>
+</View>
