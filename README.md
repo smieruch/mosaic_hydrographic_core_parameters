@@ -29,7 +29,7 @@ working with the data and the Views.
 
 ### Access
 To immediatley access the View, go to https://mvre.webodv.cloud.awi.de
-and login e.g. anonymously via the green button. Then browse directly
+and login e.g. anonymously via the green button, or directly via https://mvre.webodv.cloud.awi.de/webodv/continue_without_login. Then browse directly
 to e.g.
 https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_dailyaverage_skalars/service/DataExploration
 or navigate through the "treeview", i.e. Ocean -> Hydrographic Core
@@ -79,6 +79,8 @@ MOSAiC expedition.
 
 ![alt text](./MOSAiC_dailyaverage_skalars_view_SSS_vs_SST.jpg "SSS_vs_SST")
 
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
+
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_dailyaverage_skalars/service/DataExploration
 
 ### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC dailyaverage skalars
@@ -94,6 +96,8 @@ MOSAiC expedition.
 A temperature vs. salinity scatterplot is provided in "TS.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=TS].jpg "TS")
+
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
 
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
@@ -111,6 +115,8 @@ A sophisticated temperature section plot is provided in "Temp_Section_v1.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=Temp_Section_v1].jpg "Temp_Section")
 
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
+
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
 ### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC daily profiles
@@ -126,6 +132,8 @@ A sophisticated temperature section plot is provided in "Temp_Section_v1.xview"
 A simple temperature section plot is provided in "Temp_Section.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=Temp_Section].jpg "Temp_Section")
+
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
 
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
@@ -143,6 +151,8 @@ A simple salinity section plot is provided in "Sal_Section.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=Sal_Section].jpg "Sal_Section")
 
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
+
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
 ### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC daily profiles
@@ -159,6 +169,8 @@ Two section plots are provided in "Two_Section_Plots_Temp_Sal.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=Two_Section_Plots_Temp_Sal].jpg "Temp_Sal_Section")
 
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
+
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
 ### Treepath: Ocean -> Hydrographic Core Parameters -> MOSAiC daily profiles
@@ -174,6 +186,8 @@ Two section plots are provided in "Two_Section_Plots_Temp_Sal.xview"
 Iso-surface plot "Iso_Surface_Temp_At_100m.xview"
 
 ![alt text](./MOSAiC_daily_profiles_[view=OneIsoSurfaceWin].jpg "Temp_Sal_Section")
+
+### Login: https://mvre.webodv.cloud.awi.de/webodv/continue_without_login
 
 ### Link: https://mvre.webodv.cloud.awi.de/Ocean>Hydrographic_Core_Parameters>MOSAiC_daily_profiles/service/DataExploration
 
