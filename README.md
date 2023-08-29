@@ -49,9 +49,12 @@ Exploration" Service as above. In the top status bar go to "View" ->
 as explained above.
 
 ### Full data download
-Full data download (.txt, .nc, .odv) or subsamples of the data are available via webODV
-using the "Data Extraction" service or the "Data Exploration" service. Here you can download the full collection
-via the status bar menu "Export" -> "Data". Additionally, .nc files are provided here in GitHub.
+Full data download (.txt, .nc, .odv) or subsamples of the data are
+available via webODV using the "Data Extraction" service or the "Data
+Exploration" service. Here you can download the full collection via
+the status bar menu "Export" -> "Data". Additionally, .nc files are
+provided here in GitHub (MOSAiC_dailyaverage_skalars.nc [79k],
+MOSAiC_daily_profiles.nc [45M])).
 
 ### How to download exactly the data from the View
 You can also download only the data shown
