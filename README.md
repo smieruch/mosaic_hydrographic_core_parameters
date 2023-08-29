@@ -45,7 +45,7 @@ In addition we have archived the View here in Github. You can also
 download the file "SSS_SST.xview" to your computer. In webODV open
 the MOSAiC dailyaverage skalars collections with the "Data
 Exploration" Service as above. In the top status bar go to "View" ->
-"Manage Views" and upload the "SSS_vs_SST.xview" file. Then select it
+"Manage Views" and upload the "SSS_SST.xview" file. Then select it
 as explained above.
 
 ### How to download exactly the data from the View
