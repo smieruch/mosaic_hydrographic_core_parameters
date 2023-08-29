@@ -48,10 +48,13 @@ Exploration" Service as above. In the top status bar go to "View" ->
 "Manage Views" and upload the "SSS_SST.xview" file. Then select it
 as explained above.
 
-### How to download exactly the data from the View
+### Full data download
+Full data download (.txt, .nc, .odv) or subsamples of the data are available via webODV
+using the "Data Extraction" service or the "Data Exploration" service. Here you can download the full collection
+via the status bar menu "Export" -> "Data". Additionally, .nc files are provided here in GitHub.
 
-From the status bar menu "Export" you can download the full collection
-via the "Data" sub-menu. But you can also download only the data shown
+### How to download exactly the data from the View
+You can also download only the data shown
 in the plot e.g. the SSS_SST. Therefore go to "Export" -> "Window Data" -> "Window 1"
 or/and "Window 2". If you choose "Window 1", the Salinity data will be
 downloaded, choosing "Window 2" will download the Temperature data.
