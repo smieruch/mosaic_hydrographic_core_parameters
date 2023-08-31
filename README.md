@@ -8,7 +8,7 @@ more than hundred scientists have taken meaurements during the polar
 night. The [M-VRE team](https://mosaic-vre.org/team) aims at
 aggregating and compiling this unique, comprehensive and
 interdisciplinary dataset for the interactive online usage and
-analysis with webODV (https://webodv.awi.de).
+analysis with webODV ( [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8241241.svg)](https://doi.org/10.5281/zenodo.8241241), https://webodv.awi.de ).
 
 The ocean team has published an article *"The Eurasian Arctic Ocean
 along the MOSAiC drift (2019-2020): An interdisciplinary perspective
